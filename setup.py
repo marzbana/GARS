@@ -9,7 +9,7 @@ setuptools.setup(
     author="Alex Marzban",
     author_email="marza@bu.edu",
     description="This package provides the tool for grammar augmented LLM generation.",
-    url="https://github.com/marzbana/GARS/syncode2",
+    url="https://github.com/marzbana/GARS/",
     include_package_data=True,
     packages=setuptools.find_packages(),
     install_requires=requirements,
