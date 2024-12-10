@@ -10,7 +10,7 @@ from syncode.parsers.grammars import Grammar
 # Set to True for debugging
 DEBUG = False
 
-class SyncodeLogitsProcessor(LogitsProcessor):
+class SyncodeLogitsProcessor2(LogitsProcessor):
     """
     A LogitsProcessor that filters model logits to only allow syntactically valid Python tokens.
     Now supports batch processing. Each element in the batch will be parsed independently.
