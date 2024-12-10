@@ -4,7 +4,7 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
     requirements = f.read().splitlines()
 
 setuptools.setup(
-    name="syncode",
+    name="syncode2",
     version="1",
     author="Alex Marzban",
     author_email="marza@bu.edu",
