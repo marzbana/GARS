@@ -1,1 +1,1 @@
-from logit import SyncodeLogitsProcessor2
+from .logit import SyncodeLogitsProcessor2
